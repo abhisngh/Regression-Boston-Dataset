@@ -116,7 +116,6 @@ License
 Contact
 ----------------------------------
  * [Boston-Regression](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
- * [Project_Link](https://github.com/decodrtechnologies/Data-Science)
 
 Run
 ------------------------------
