@@ -5,9 +5,9 @@ Boston Housing Dataset-Regression
     new home.
 
     In this we are going to use 3 Different Regression Model:
-        * Linear Regression
-        * Lasso Regression
-        * Random Forest Regressor
+ * [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ * [Lasso Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
+ * [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ![alt text](https://github.com/abhisngh/Regression-Boston-Dataset/blob/master/Images/boston_readme.jpg "Logo Title Text 1")
 
@@ -28,7 +28,7 @@ Boston house prices dataset
         - NOX      nitric oxides concentration (parts per 10 million)
         - RM       average number of rooms per dwelling
         - AGE      proportion of owner-occupied units built prior to 1940
-        - DIS      weighted distances to five Boston employment centres
+        - DIS      weighted distances to five Boston employment centers
         - RAD      index of accessibility to radial highways
         - TAX      full-value property-tax rate per $10,000
         - PTRATIO  pupil-teacher ratio by town
